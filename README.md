@@ -2,7 +2,7 @@
 
 <h2> Projeto feito utilizando Python. </h2>
 
-### :books: Linguagens e libs utilizadas: 
+### :books: Linguagem e libs utilizadas: 
 
 - Python
 - PySimpleGUI
