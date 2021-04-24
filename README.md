@@ -1,6 +1,6 @@
 # Password Generator - Gerador de Senhas
 
-<h2> Projeto feito utilizando Python. </h2>
+<h2> Gerador de senhas aleatórias utilizando Python. </h2>
 
 ### :books: Linguagem e libs utilizadas: 
 
